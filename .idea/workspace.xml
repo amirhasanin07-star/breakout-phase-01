@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2042474c-bdfc-4c87-81cc-28a43f7f80d2" name="Changes" comment="added the necessary packages specified in the project instructions&#10;and added the gameconstants since it was the first one that was finished and would probably not be changed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Amir Hasani Nasab &lt;amirhasanin07@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;amirhasanin07-star&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/amirhasanin07-star/breakout-phase-01.git&quot;,
+    &quot;accountId&quot;: &quot;b040dd31-49f8-4a21-a693-ca74663d8e88&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.230068941666548" />
+      <entry key="MS500" value="1.9217198488646798" />
+      <entry key="S2" value="3.8878484824844617" />
+      <entry key="S5" value="7.489321491343626" />
+      <entry key="S10" value="12.634787240001911" />
+      <entry key="S30" value="22.726308790730005" />
+      <entry key="S60" value="27.565139325939867" />
+      <entry key="M2" value="31.53713328101337" />
+      <entry key="M5" value="38.6400752683429" />
+      <entry key="M10" value="44.30266878134018" />
+      <entry key="M15" value="46.96420554006667" />
+      <entry key="M30" value="50.157870608427466" />
+      <entry key="H1" value="51.98966682689665" />
+      <entry key="H2" value="52.971398463635" />
+      <entry key="H4" value="53.4796946086952" />
+      <entry key="D1" value="53.91243577960136" />
+      <entry key="W1" value="53.98746992386092" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.072853416355395E-284" />
+      <entry key="S2" value="1.3239923047518947E-71" />
+      <entry key="S5" value="4.4540407325153523E-29" />
+      <entry key="S10" value="6.673860001914452E-15" />
+      <entry key="S30" value="1.8827487332063123E-5" />
+      <entry key="S60" value="0.0043390652601756445" />
+      <entry key="M2" value="0.06587158158246728" />
+      <entry key="M5" value="0.3368831089946794" />
+      <entry key="M10" value="0.5804163238526975" />
+      <entry key="M15" value="0.6958138656721394" />
+      <entry key="M30" value="0.8341545814009166" />
+      <entry key="H1" value="0.9133206344985954" />
+      <entry key="H2" value="0.9556781019248038" />
+      <entry key="H4" value="0.9775878998457391" />
+      <entry key="D1" value="0.9962292824024368" />
+      <entry key="W1" value="0.9994604535111655" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1393597662408645" />
+      <entry key="MS500" value="1.895455099951932" />
+      <entry key="S2" value="3.87406080016693" />
+      <entry key="S5" value="7.474073535508178" />
+      <entry key="S10" value="12.60552944949227" />
+      <entry key="S30" value="22.691076698148997" />
+      <entry key="S60" value="27.54441986764192" />
+      <entry key="M2" value="31.587368017863074" />
+      <entry key="M5" value="38.968767995325805" />
+      <entry key="M10" value="44.87829101961651" />
+      <entry key="M15" value="47.65661184133159" />
+      <entry key="M30" value="50.990196741662785" />
+      <entry key="H1" value="52.902037941052235" />
+      <entry key="H2" value="53.9265924071495" />
+      <entry key="H4" value="54.45703800405665" />
+      <entry key="D1" value="54.90862396779325" />
+      <entry key="W1" value="54.986924498271605" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MPtUJ7UXquXcsl3iaNohziDSPY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/beegboss/Downloads/gson-2.14.0.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/beegboss/IdeaProjects/breakout-phase-01/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2042474c-bdfc-4c87-81cc-28a43f7f80d2" name="Changes" comment="" />
+      <created>1795264045357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795264045357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jdk update to jdk 21 lts" />
+    <MESSAGE value="jdk update" />
+    <MESSAGE value="added the necessary packages specified in the project instructions&#10;and added the gameconstants since it was the first one that was finished and would probably not be changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the necessary packages specified in the project instructions&#10;and added the gameconstants since it was the first one that was finished and would probably not be changed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
